@@ -1,0 +1,22 @@
+# Qt build artifacts
+*.o
+moc_*.cpp
+moc_*.h
+moc_predefs.h
+ui_*.h
+Makefile
+.qmake.stash
+ContactBook
+
+# Qt Creator
+*.pro.user
+*.pro.user.*
+
+# Object files
+*.obj
+*.ko
+*.elf
+
+# Build directories
+build/
+build-*/
